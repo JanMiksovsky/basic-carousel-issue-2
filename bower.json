@@ -1,0 +1,21 @@
+{
+  "name": "bwc-spikes",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JanMiksovsky/projects",
+  "authors": [
+    "Jan Miksovsky <jan@component.kitchen>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "basic-carousel": "basic-web-components/basic-carousel",
+    "neon-animation": "PolymerElements/neon-animation",
+    "polymer": "Polymer/polymer#^1.1.3"
+  }
+}
